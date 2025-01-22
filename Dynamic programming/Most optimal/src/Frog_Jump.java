@@ -9,9 +9,9 @@ public class Frog_Jump {
                 right = prev_2i + Math.abs(stones[i] - stones[i - 2]);
             }
             int cur_i = Math.min(left , right);
-            prev_2i = prev_i;
+            prev_2i = prev_i; 
             prev_i = cur_i;
-        }
+        } 
         return prev_i;
     }
 
