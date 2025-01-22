@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Custom Queue Implementation/Custom Queue Implementation.iml" filepath="$PROJECT_DIR$/Custom Queue Implementation/Custom Queue Implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Custom Stack Implementation/Custom Stack Implementation.iml" filepath="$PROJECT_DIR$/Custom Stack Implementation/Custom Stack Implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview Stack and Queue/Interview Stack and Queue.iml" filepath="$PROJECT_DIR$/Interview Stack and Queue/Interview Stack and Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack and  Queue Introduction.iml" filepath="$PROJECT_DIR$/Stack and  Queue Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/default Queue/default Queue and Deque.iml" filepath="$PROJECT_DIR$/default Queue/default Queue and Deque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/defaultStacks/defaultStacks.iml" filepath="$PROJECT_DIR$/defaultStacks/defaultStacks.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dynamic programming.iml" filepath="$PROJECT_DIR$/.idea/Dynamic programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoization/Memoization.iml" filepath="$PROJECT_DIR$/Memoization/Memoization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Most optimal/Most optimal.iml" filepath="$PROJECT_DIR$/Most optimal/Most optimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recurrence/Recurrence.iml" filepath="$PROJECT_DIR$/Recurrence/Recurrence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tabulation/Tabulation.iml" filepath="$PROJECT_DIR$/Tabulation/Tabulation.iml" />
+    </modules>
+  </component>
+</project>

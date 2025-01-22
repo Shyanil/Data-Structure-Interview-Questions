@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Better Approach/Better Approach.iml" filepath="$PROJECT_DIR$/Better Approach/Better Approach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Brute Force Approach/Brute Force Approach.iml" filepath="$PROJECT_DIR$/Brute Force Approach/Brute Force Approach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Leetode Arrays.iml" filepath="$PROJECT_DIR$/.idea/Leetode Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optimal Approach/Optimal Approach.iml" filepath="$PROJECT_DIR$/Optimal Approach/Optimal Approach.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+Dynamic Programming (DP) is a powerful technique for solving problems by breaking them down into smaller subproblems and solving each subproblem only once. There are two main approaches to implement DP: **Tabulation** and **Memoization**. Here's an explanation of each:
+
+### 1. **Tabulation (Bottom-Up Approach)**
+In tabulation, you solve the problem iteratively by filling up a table (usually an array or a matrix) in a bottom-up manner. This means solving all the subproblems starting from the simplest one and building up to the final solution.
+
+**Steps of Tabulation:**
+- **Step 1:** Identify the base cases and initialize them in the table (usually the first row or column).
+- **Step 2:** Iteratively solve the subproblems and fill up the table using previously solved subproblems until you reach the final solution.
+
+**Example:**
+For the Fibonacci sequence, you can build a table from the base cases (F(0) and F(1)) and then fill up the table until F(n) by using the relation:
+`F(n) = F(n-1) + F(n-2)`.
+
+### 2. **Memoization (Top-Down Approach)**
+In memoization, you solve the problem recursively but store the results of each subproblem as you go. If a subproblem has already been solved, you retrieve the result from memory (cache) rather than solving it again.
+
+**Steps of Memoization:**
+- **Step 1:** Solve the problem recursively.
+- **Step 2:** Store the result of each subproblem (typically in a cache or dictionary).
+- **Step 3:** Before solving a subproblem, check if the result is already cached. If it is, return the cached result to avoid redundant computation.
+
+**Example:**
+For Fibonacci, you can recursively calculate F(n), but before recalculating the same Fibonacci number multiple times, you store the values of F(0), F(1), ..., F(n) in a dictionary.
+
+---
+
+In summary:
+- **Tabulation** fills up a table from the bottom up, using iterative techniques.
+- **Memoization** uses recursion and stores results to avoid recalculating subproblems.
