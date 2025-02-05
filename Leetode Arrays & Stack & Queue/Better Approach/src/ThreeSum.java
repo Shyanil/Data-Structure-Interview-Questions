@@ -32,8 +32,8 @@ public class ThreeSum {
                 int third = -(arr[i] + arr[j]);  // Calculate the third number to make the sum zero
 
                 // Check if the third number is already seen in the set
-                if (arr[i] + arr[j] + third == 0) {
-                    if (integerSet.contains(third)) {
+                 if (integerSet.contains(third)) {
+                    if (arr[i] + arr[j] + third == 0) {
                         // Create a sorted triplet to ensure no duplicate triplets are added
                         List<Integer> temp = Arrays.asList(arr[i], arr[j], third);
                         temp.sort(null);  /* {Inside this: sorts the triplet in ascending order to handle duplicates
